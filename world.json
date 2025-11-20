@@ -1,13 +1,204 @@
 {
-  "name": "the-big-banana-adventures",
   "title": "The Big Banana Adventures",
-  "id": "big-banana",
-  "download": "https://github.com/XxXEdgeXxX/tempworld/blob/main/worlds.zip",
+  "id": "test",
   "system": "dnd5e",
-  "coreVersion": "12",
+  "background": "assets/one-off-tokens/bigbananas.png",
+  "download": "https://github.com/XxXEdgeXxX/tempworld/blob/main/worlds.zip",
+  "joinTheme": "default",
+  "coreVersion": "13.348",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13.348"
   },
-  "description": "A fun test world."
+  "systemVersion": "5.1.9",
+  "lastPlayed": "Sat Oct 04 2025 11:44:39 GMT-0400 (Eastern Daylight Time)",
+  "playtime": 1774747,
+  "packs": [
+    {
+      "label": "Creatures",
+      "type": "Actor",
+      "name": "annomicon-creatures",
+      "banner": "/modules/annomicon/dist/banners/creatures_dnd5e_banner.webp",
+      "path": "packs/annomicon-creatures",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Items",
+      "type": "Item",
+      "name": "annomicon-items",
+      "banner": "/modules/annomicon/dist/banners/items_dnd5e_banner.webp",
+      "path": "packs/annomicon-items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Mass Edit: Presets (MAIN)",
+      "type": "JournalEntry",
+      "ownership": {
+        "GAMEMASTER": "NONE",
+        "PLAYER": "NONE",
+        "ASSISTANT": "NONE"
+      },
+      "name": "mass-edit-presets-main",
+      "path": "packs/mass-edit-presets-main",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "label": "Backup",
+      "type": "Actor",
+      "name": "backup",
+      "path": "packs/backup",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "test",
+      "type": "Macro",
+      "name": "test",
+      "path": "packs/test",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Journal",
+      "type": "JournalEntry",
+      "name": "journal",
+      "path": "packs/journal",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Monster Manual 2024",
+      "type": "Actor",
+      "name": "monster-manual-2024",
+      "path": "packs/monster-manual-2024",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Mordenkainen's Tome of Foes",
+      "type": "Actor",
+      "name": "mordenkainens-tome-of-foes",
+      "path": "packs/mordenkainens-tome-of-foes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Xanathar's guide to Everything",
+      "type": "Actor",
+      "name": "xanathars-guide-to-everything",
+      "path": "packs/xanathars-guide-to-everything",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Volo's guide to Monsters",
+      "type": "Actor",
+      "name": "volos-guide-to-monsters",
+      "path": "packs/volos-guide-to-monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Player's Handbook (2024)",
+      "type": "Item",
+      "name": "players-handbook-2024",
+      "path": "packs/players-handbook-2024",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Bastions and Cantrips",
+      "type": "Item",
+      "name": "bastions-and-cantrips",
+      "path": "packs/bastions-and-cantrips",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Maps",
+      "type": "Scene",
+      "name": "maps",
+      "path": "packs/maps",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "All Creatures",
+      "type": "Actor",
+      "name": "all-creatures",
+      "path": "packs/all-creatures",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Scripts",
+      "type": "Macro",
+      "name": "scripts",
+      "path": "packs/scripts",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "nextSession": "2025-09-22T20:00:00.000Z",
+  "description": "",
+  "flags": {}
 }
