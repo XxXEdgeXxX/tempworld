@@ -2,5 +2,12 @@
   "name": "the-big-banana-adventures",
   "title": "The Big Banana Adventures",
   "id": "big-banana",
-  "download": "https://github.com/XxXEdgeXxX/tempworld/blob/main/worlds.zip"
+  "download": "https://github.com/XxXEdgeXxX/tempworld/blob/main/worlds.zip",
+  "system": "dnd5e",
+  "coreVersion": "12",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A fun test world."
 }
