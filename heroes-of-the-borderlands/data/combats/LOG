@@ -1,0 +1,15 @@
+2025/10/19-12:50:03.234028 1487039eab38 Recovering log #24
+2025/10/19-12:50:03.263458 1487039eab38 Delete type=3 #22
+2025/10/19-12:50:03.265388 1487039eab38 Delete type=0 #24
+2025/10/19-12:52:08.254317 148482111b38 Level-0 table #29: started
+2025/10/19-12:52:08.267489 148482111b38 Level-0 table #29: 1100 bytes OK
+2025/10/19-12:52:08.277465 148482111b38 Delete type=0 #27
+2025/10/19-12:52:08.279763 148482111b38 Manual compaction at level-0 from '!combats!ayawlVwlabcZfhxy' @ 72057594037927935 : 1 .. '!combats.combatants!ayawlVwlabcZfhxy.r03xT4ID7lOxxeme' @ 0 : 0; will stop at (end)
+2025/10/19-12:52:08.569928 148482111b38 Manual compaction at level-1 from '!combats!ayawlVwlabcZfhxy' @ 72057594037927935 : 1 .. '!combats.combatants!ayawlVwlabcZfhxy.r03xT4ID7lOxxeme' @ 0 : 0; will stop at '!combats.combatants!ayawlVwlabcZfhxy.r03xT4ID7lOxxeme' @ 57 : 1
+2025/10/19-12:52:08.570155 148482111b38 Compacting 1@1 + 1@2 files
+2025/10/19-12:52:08.584632 148482111b38 Generated table #30@1: 5 keys, 1100 bytes
+2025/10/19-12:52:08.584839 148482111b38 Compacted 1@1 + 1@2 files => 1100 bytes
+2025/10/19-12:52:08.593410 148482111b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/19-12:52:08.596186 148482111b38 Delete type=2 #13
+2025/10/19-12:52:08.598724 148482111b38 Delete type=2 #29
+2025/10/19-12:52:08.684694 148482111b38 Manual compaction at level-1 from '!combats.combatants!ayawlVwlabcZfhxy.r03xT4ID7lOxxeme' @ 57 : 1 .. '!combats.combatants!ayawlVwlabcZfhxy.r03xT4ID7lOxxeme' @ 0 : 0; will stop at (end)

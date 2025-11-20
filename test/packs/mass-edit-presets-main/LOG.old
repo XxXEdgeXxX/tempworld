@@ -1,0 +1,7 @@
+2025/09/28-14:32:12.656092 1487039eab38 Recovering log #131
+2025/09/28-14:32:12.677562 1487039eab38 Delete type=3 #129
+2025/09/28-14:32:12.679262 1487039eab38 Delete type=0 #131
+2025/09/28-14:34:19.527936 148482111b38 Level-0 table #137: started
+2025/09/28-14:34:19.529091 148482111b38 Level-0 table #137: 0 bytes OK
+2025/09/28-14:34:19.535435 148482111b38 Delete type=0 #135
+2025/09/28-14:34:19.545579 148482111b38 Manual compaction at level-0 from '!folders!flO7SgqaWrnAp4Kn' @ 72057594037927935 : 1 .. '!journal!MassEditMetaData' @ 0 : 0; will stop at (end)

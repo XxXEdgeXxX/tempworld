@@ -1,0 +1,8 @@
+2025/10/18-16:26:24.148054 1487031e7b38 Recovering log #24
+2025/10/18-16:26:24.172734 1487031e7b38 Delete type=3 #22
+2025/10/18-16:26:24.174491 1487031e7b38 Delete type=0 #24
+2025/10/18-16:26:45.332076 148482111b38 Level-0 table #29: started
+2025/10/18-16:26:45.333390 148482111b38 Level-0 table #29: 0 bytes OK
+2025/10/18-16:26:45.341008 148482111b38 Delete type=0 #27
+2025/10/18-16:26:45.394652 148482111b38 Manual compaction at level-0 from '!scenes!NUEDEFAULTSCENE0' @ 72057594037927935 : 1 .. '!scenes.walls!hotbWoods0000000.zrSZrUv86XP0QDWq' @ 0 : 0; will stop at (end)
+2025/10/18-16:26:45.396119 148482111b38 Manual compaction at level-1 from '!scenes!NUEDEFAULTSCENE0' @ 72057594037927935 : 1 .. '!scenes.walls!hotbWoods0000000.zrSZrUv86XP0QDWq' @ 0 : 0; will stop at (end)

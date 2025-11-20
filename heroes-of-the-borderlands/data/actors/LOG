@@ -1,0 +1,15 @@
+2025/10/19-12:50:03.006261 1487041edb38 Recovering log #25
+2025/10/19-12:50:03.033585 1487041edb38 Delete type=3 #23
+2025/10/19-12:50:03.035408 1487041edb38 Delete type=0 #25
+2025/10/19-12:52:07.967850 148482111b38 Level-0 table #30: started
+2025/10/19-12:52:08.224067 148482111b38 Level-0 table #30: 932270 bytes OK
+2025/10/19-12:52:08.234921 148482111b38 Delete type=0 #28
+2025/10/19-12:52:08.279360 148482111b38 Manual compaction at level-0 from '!actors!TuSHMW0EJrNKOdrX' @ 72057594037927935 : 1 .. '!actors.items.effects!mmSteamMephit000.mmSteamBreath000.IRvk3n3tGgtpMU10' @ 0 : 0; will stop at (end)
+2025/10/19-12:52:08.280172 148482111b38 Manual compaction at level-1 from '!actors!TuSHMW0EJrNKOdrX' @ 72057594037927935 : 1 .. '!actors.items.effects!mmSteamMephit000.mmSteamBreath000.IRvk3n3tGgtpMU10' @ 0 : 0; will stop at '!actors.items.effects!mmSteamMephit000.mmSteamBreath000.IRvk3n3tGgtpMU10' @ 1684 : 1
+2025/10/19-12:52:08.280339 148482111b38 Compacting 1@1 + 1@2 files
+2025/10/19-12:52:08.549821 148482111b38 Generated table #31@1: 675 keys, 932270 bytes
+2025/10/19-12:52:08.550183 148482111b38 Compacted 1@1 + 1@2 files => 932270 bytes
+2025/10/19-12:52:08.558802 148482111b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/19-12:52:08.561948 148482111b38 Delete type=2 #18
+2025/10/19-12:52:08.566610 148482111b38 Delete type=2 #30
+2025/10/19-12:52:08.684326 148482111b38 Manual compaction at level-1 from '!actors.items.effects!mmSteamMephit000.mmSteamBreath000.IRvk3n3tGgtpMU10' @ 1684 : 1 .. '!actors.items.effects!mmSteamMephit000.mmSteamBreath000.IRvk3n3tGgtpMU10' @ 0 : 0; will stop at (end)

@@ -1,0 +1,8 @@
+2025/10/18-16:26:23.698914 1487049f0b38 Recovering log #20
+2025/10/18-16:26:23.718784 1487049f0b38 Delete type=3 #18
+2025/10/18-16:26:23.720440 1487049f0b38 Delete type=0 #20
+2025/10/18-16:26:45.217773 148482111b38 Level-0 table #25: started
+2025/10/18-16:26:45.219227 148482111b38 Level-0 table #25: 0 bytes OK
+2025/10/18-16:26:45.230953 148482111b38 Delete type=0 #23
+2025/10/18-16:26:45.280474 148482111b38 Manual compaction at level-0 from '!combats!ayawlVwlabcZfhxy' @ 72057594037927935 : 1 .. '!combats.combatants!ayawlVwlabcZfhxy.r03xT4ID7lOxxeme' @ 0 : 0; will stop at (end)
+2025/10/18-16:26:45.281661 148482111b38 Manual compaction at level-1 from '!combats!ayawlVwlabcZfhxy' @ 72057594037927935 : 1 .. '!combats.combatants!ayawlVwlabcZfhxy.r03xT4ID7lOxxeme' @ 0 : 0; will stop at (end)

@@ -1,0 +1,8 @@
+2025/10/18-16:26:23.902681 1487039eab38 Recovering log #21
+2025/10/18-16:26:23.925775 1487039eab38 Delete type=3 #19
+2025/10/18-16:26:23.927509 1487039eab38 Delete type=0 #21
+2025/10/18-16:26:45.233433 148482111b38 Level-0 table #27: started
+2025/10/18-16:26:45.235636 148482111b38 Level-0 table #27: 0 bytes OK
+2025/10/18-16:26:45.246681 148482111b38 Delete type=0 #25
+2025/10/18-16:26:45.280808 148482111b38 Manual compaction at level-0 from '!journal!WBUWqi5ucrfH9s5B' @ 72057594037927935 : 1 .. '!journal.pages!hotbWilderness00.lJHliDvKRRXWrJRZ' @ 0 : 0; will stop at (end)
+2025/10/18-16:26:45.281990 148482111b38 Manual compaction at level-1 from '!journal!WBUWqi5ucrfH9s5B' @ 72057594037927935 : 1 .. '!journal.pages!hotbWilderness00.lJHliDvKRRXWrJRZ' @ 0 : 0; will stop at (end)

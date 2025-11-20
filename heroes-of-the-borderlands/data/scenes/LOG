@@ -1,0 +1,15 @@
+2025/10/19-12:50:03.772845 1487041edb38 Recovering log #28
+2025/10/19-12:50:03.799419 1487041edb38 Delete type=3 #26
+2025/10/19-12:50:03.801180 1487041edb38 Delete type=0 #28
+2025/10/19-12:52:08.981803 148482111b38 Level-0 table #33: started
+2025/10/19-12:52:09.014811 148482111b38 Level-0 table #33: 89828 bytes OK
+2025/10/19-12:52:09.025991 148482111b38 Delete type=0 #31
+2025/10/19-12:52:09.055607 148482111b38 Manual compaction at level-0 from '!scenes!NUEDEFAULTSCENE0' @ 72057594037927935 : 1 .. '!scenes.walls!hotbWoods0000000.zrSZrUv86XP0QDWq' @ 0 : 0; will stop at (end)
+2025/10/19-12:52:09.080219 148482111b38 Manual compaction at level-1 from '!scenes!NUEDEFAULTSCENE0' @ 72057594037927935 : 1 .. '!scenes.walls!hotbWoods0000000.zrSZrUv86XP0QDWq' @ 0 : 0; will stop at '!scenes.tokens.delta.items.effects!hotbFlockOfStirg.Bj6ALFvw1QtHcMOw.B5Mqwiu8yllfF60G.phbaoiAttackSpir.dnd5eItemChanges' @ 4243 : 1
+2025/10/19-12:52:09.080429 148482111b38 Compacting 1@1 + 1@2 files
+2025/10/19-12:52:09.250705 148482111b38 Generated table #34@1: 2936 keys, 364172 bytes
+2025/10/19-12:52:09.250998 148482111b38 Compacted 1@1 + 1@2 files => 364172 bytes
+2025/10/19-12:52:09.257923 148482111b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/19-12:52:09.259896 148482111b38 Delete type=2 #17
+2025/10/19-12:52:09.262407 148482111b38 Delete type=2 #33
+2025/10/19-12:52:09.306788 148482111b38 Manual compaction at level-1 from '!scenes.tokens.delta.items.effects!hotbFlockOfStirg.Bj6ALFvw1QtHcMOw.B5Mqwiu8yllfF60G.phbaoiAttackSpir.dnd5eItemChanges' @ 4243 : 1 .. '!scenes.walls!hotbWoods0000000.zrSZrUv86XP0QDWq' @ 0 : 0; will stop at (end)

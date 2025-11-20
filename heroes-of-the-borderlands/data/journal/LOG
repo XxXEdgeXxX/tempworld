@@ -1,0 +1,15 @@
+2025/10/19-12:50:03.501366 1487039eab38 Recovering log #26
+2025/10/19-12:50:03.526613 1487039eab38 Delete type=3 #24
+2025/10/19-12:50:03.527797 1487039eab38 Delete type=0 #26
+2025/10/19-12:52:08.771010 148482111b38 Level-0 table #31: started
+2025/10/19-12:52:08.786980 148482111b38 Level-0 table #31: 33518 bytes OK
+2025/10/19-12:52:08.795148 148482111b38 Delete type=0 #29
+2025/10/19-12:52:08.809341 148482111b38 Manual compaction at level-0 from '!journal!WBUWqi5ucrfH9s5B' @ 72057594037927935 : 1 .. '!journal.pages!hotbWilderness00.lJHliDvKRRXWrJRZ' @ 0 : 0; will stop at (end)
+2025/10/19-12:52:08.838344 148482111b38 Manual compaction at level-1 from '!journal!WBUWqi5ucrfH9s5B' @ 72057594037927935 : 1 .. '!journal.pages!hotbWilderness00.lJHliDvKRRXWrJRZ' @ 0 : 0; will stop at '!journal.pages!WBUWqi5ucrfH9s5B.ynIXKEGXSuW2LhGr' @ 737 : 1
+2025/10/19-12:52:08.838572 148482111b38 Compacting 1@1 + 1@2 files
+2025/10/19-12:52:08.966136 148482111b38 Generated table #32@1: 565 keys, 335226 bytes
+2025/10/19-12:52:08.966292 148482111b38 Compacted 1@1 + 1@2 files => 335226 bytes
+2025/10/19-12:52:08.974055 148482111b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/19-12:52:08.976329 148482111b38 Delete type=2 #23
+2025/10/19-12:52:08.978819 148482111b38 Delete type=2 #31
+2025/10/19-12:52:09.028352 148482111b38 Manual compaction at level-1 from '!journal.pages!WBUWqi5ucrfH9s5B.ynIXKEGXSuW2LhGr' @ 737 : 1 .. '!journal.pages!hotbWilderness00.lJHliDvKRRXWrJRZ' @ 0 : 0; will stop at (end)

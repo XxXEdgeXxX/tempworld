@@ -1,0 +1,15 @@
+{
+  "title": "pathfinder test",
+  "id": "pathfinder-test",
+  "system": "pf2e",
+  "coreVersion": "13.348",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systemVersion": "7.6.0",
+  "lastPlayed": "Sat Oct 18 2025 12:26:06 GMT-0400 (Eastern Daylight Time)",
+  "playtime": 630732,
+  "description": "",
+  "flags": {}
+}
